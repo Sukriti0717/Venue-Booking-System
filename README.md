@@ -33,3 +33,5 @@ Develop an online venue booking system which can reduce the manual work.
 # ER Diagram
 ![WhatsApp Image 2024-02-01 at 23 48 28_0be853df](https://github.com/Sukriti0717/Venue-Booking-System/assets/121672302/d2d3ada2-6fe6-4104-a97e-19bd4b4f3cef)
 
+# ER Relational Schema Diagram
+![image](https://github.com/Sukriti0717/Venue-Booking-System/assets/121672302/48ce1d2d-a53d-4c96-ad5d-a43ebd07fe6a)
